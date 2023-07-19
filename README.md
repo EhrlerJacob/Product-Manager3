@@ -1,0 +1,1 @@
+This application is a product manager application using a React based front end, Express.js as a middleware for creating and manipulating the API, and a MongoDB database using Mongoose to connect with the local database. 
